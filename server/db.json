@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Huy",
+      "age": 20,
+      "gender": "Nam",
+      "birthday": "2000-01-01",
+      "address": "Hà Nội",
+      "bornIn": "Hà nội"
+    },
+    {
+      "id": "2",
+      "name": "Hùng",
+      "age": 22,
+      "gender": "Nam",
+      "birthday": "2000-01-01",
+      "address": "Hà Nội",
+      "bornIn": "Hà nội"
+    },
+    {
+      "id": "1",
+      "name": "Hồ Xuân Hùng",
+      "age": "24",
+      "gender": "name",
+      "birthday": "12",
+      "bornIn": "Hà Nội",
+      "address": "Hải Phòng"
+    },
+    {
+      "id": "",
+      "name": "Hồ Xuân Hùng",
+      "age": "24",
+      "gender": "name",
+      "birthday": "12",
+      "bornIn": "Hà Nội",
+      "address": "Hải Phòng"
+    }
+  ]
+}
